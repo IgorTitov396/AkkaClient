@@ -47,3 +47,8 @@ compile
 ;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/i.titov1/AppData/Local/Temp/sbt-structure.xml
 compile
 ;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/i.titov1/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/i.titov1/~Git/Study/AkkaCourse/AkkaClient/}akkaclient/products {file:/C:/Users/i.titov1/~Git/Study/AkkaCourse/AkkaClient/}akkaclient/test:products
+compile
+test
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/i.titov1/AppData/Local/Temp/sbt-structure.xml
+test

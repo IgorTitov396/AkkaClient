@@ -7,7 +7,7 @@
 		revision="0.0.1-SNAPSHOT"
 		conf="default"
 		confs="default"
-		date="20171002182210"/>
+		date="20171002184745"/>
 	<dependencies>
 		<module organisation="org.scoverage" name="sbt-scoverage">
 			<revision name="1.5.1" status="release" pubdate="20170826234543" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/scoverage/sbt-scoverage" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="53">
