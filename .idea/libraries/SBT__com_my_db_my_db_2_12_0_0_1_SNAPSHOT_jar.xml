@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.my_db:my_db_2.12:0.0.1-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.my_db/my_db_2.12/0.0.1-SNAPSHOT/jars/my_db_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.my_db/my_db_2.12/0.0.1-SNAPSHOT/srcs/my_db_2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
