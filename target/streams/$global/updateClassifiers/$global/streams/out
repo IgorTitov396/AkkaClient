@@ -4438,7 +4438,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.3!scala-compiler.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.4!jline.jar(src)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 328ms :: artifacts dl 31ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 249ms :: artifacts dl 31ms[0m
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT compile produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT runtime produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT test produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-test.xml[0m
@@ -4453,4 +4453,4 @@
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT pom produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT scala-tool produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for client#client$sources_2.12;0.0.1-SNAPSHOT scoveragePlugin produced in C:\Users\i.titov1\~Git\Study\AkkaCourse\AkkaClient\target\scala-2.12\resolution-cache\reports\client-client$sources_2.12-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (328ms resolve - 31ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (249ms resolve - 31ms download)[0m
